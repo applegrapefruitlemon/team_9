@@ -1,0 +1,283 @@
+tmfc,variable,error
+2023012002,TMP,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023012002,TMP,dummy or empty content
+2023012002,WSD,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023012002,WSD,dummy or empty content
+2023012002,SKY,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023012002,SKY,dummy or empty content
+2023012002,PTY,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023012002,PTY,dummy or empty content
+2023012005,TMP,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023012005,TMP,dummy or empty content
+2023012005,WSD,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023012005,WSD,dummy or empty content
+2023012005,SKY,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023012005,SKY,dummy or empty content
+2023012005,PTY,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023012005,PTY,dummy or empty content
+2023012005,POP,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023012005,POP,dummy or empty content
+2023012005,PCP,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023012005,PCP,dummy or empty content
+2023012005,REH,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023012005,REH,dummy or empty content
+2023012008,TMP,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023012008,TMP,dummy or empty content
+2023012008,SKY,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023012008,SKY,dummy or empty content
+2023012008,PTY,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023012008,PTY,dummy or empty content
+2023012008,POP,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023012008,POP,dummy or empty content
+2023012008,PCP,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023012008,PCP,dummy or empty content
+2023012008,REH,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023012008,REH,dummy or empty content
+2023012011,TMP,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023012011,TMP,dummy or empty content
+2023012011,WSD,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023012011,WSD,dummy or empty content
+2023012011,SKY,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023012011,SKY,dummy or empty content
+2023012011,PTY,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023012011,PTY,dummy or empty content
+2023012011,POP,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023012011,POP,dummy or empty content
+2023012011,PCP,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023012011,PCP,dummy or empty content
+2023012011,REH,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023012011,REH,dummy or empty content
+2023012014,TMP,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023012014,TMP,dummy or empty content
+2023012014,PTY,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023012014,PTY,dummy or empty content
+2023012014,POP,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023012014,POP,dummy or empty content
+2023022802,TMP,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023022802,TMP,dummy or empty content
+2023022802,WSD,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023022802,WSD,dummy or empty content
+2023022802,SKY,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023022802,SKY,dummy or empty content
+2023022802,PTY,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023022802,PTY,dummy or empty content
+2023022802,POP,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023022802,POP,dummy or empty content
+2023022802,PCP,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023022802,PCP,dummy or empty content
+2023022802,REH,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023022802,REH,dummy or empty content
+2023022805,TMP,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023022805,TMP,dummy or empty content
+2023022805,WSD,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023022805,WSD,dummy or empty content
+2023022805,SKY,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023022805,SKY,dummy or empty content
+2023022805,PTY,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023022805,PTY,dummy or empty content
+2023022805,POP,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023022805,POP,dummy or empty content
+2023022805,PCP,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023022805,PCP,dummy or empty content
+2023022805,REH,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023022805,REH,dummy or empty content
+2023022808,TMP,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023022808,TMP,dummy or empty content
+2023022808,WSD,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023022808,WSD,dummy or empty content
+2023022808,SKY,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023022808,SKY,dummy or empty content
+2023022808,PTY,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023022808,PTY,dummy or empty content
+2023022808,POP,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Max retries exceeded with url: /api/typ01/cgi-bin/url/nph-dfs_shrt_grd?tmfc=2023022808&vars=POP&authKey=AOSEJFg_TSSkhCRYP_0k2g (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000029E43002AD0>, 'Connection to apihub.kma.go.kr timed out. (connect timeout=10)'))"
+2023022808,POP,dummy or empty content
+2023022808,PCP,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Max retries exceeded with url: /api/typ01/cgi-bin/url/nph-dfs_shrt_grd?tmfc=2023022808&vars=PCP&authKey=AOSEJFg_TSSkhCRYP_0k2g (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000029E43190410>, 'Connection to apihub.kma.go.kr timed out. (connect timeout=10)'))"
+2023022808,PCP,dummy or empty content
+2023022808,REH,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Max retries exceeded with url: /api/typ01/cgi-bin/url/nph-dfs_shrt_grd?tmfc=2023022808&vars=REH&authKey=AOSEJFg_TSSkhCRYP_0k2g (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000029E43002AD0>, 'Connection to apihub.kma.go.kr timed out. (connect timeout=10)'))"
+2023022808,REH,dummy or empty content
+2023022811,TMP,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023022811,TMP,dummy or empty content
+2023022811,WSD,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Max retries exceeded with url: /api/typ01/cgi-bin/url/nph-dfs_shrt_grd?tmfc=2023022811&vars=WSD&authKey=AOSEJFg_TSSkhCRYP_0k2g (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000029E43002E90>, 'Connection to apihub.kma.go.kr timed out. (connect timeout=10)'))"
+2023022811,WSD,dummy or empty content
+2023022811,SKY,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023022811,SKY,dummy or empty content
+2023022811,PTY,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023022811,PTY,dummy or empty content
+2023022811,POP,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Max retries exceeded with url: /api/typ01/cgi-bin/url/nph-dfs_shrt_grd?tmfc=2023022811&vars=POP&authKey=AOSEJFg_TSSkhCRYP_0k2g (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000029E43003250>, 'Connection to apihub.kma.go.kr timed out. (connect timeout=10)'))"
+2023022811,POP,dummy or empty content
+2023022811,PCP,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023022811,PCP,dummy or empty content
+2023022811,REH,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Max retries exceeded with url: /api/typ01/cgi-bin/url/nph-dfs_shrt_grd?tmfc=2023022811&vars=REH&authKey=AOSEJFg_TSSkhCRYP_0k2g (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000029E43002490>, 'Connection to apihub.kma.go.kr timed out. (connect timeout=10)'))"
+2023022811,REH,dummy or empty content
+2023022814,TMP,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023022814,TMP,dummy or empty content
+2023022814,WSD,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023022814,WSD,dummy or empty content
+2023022814,SKY,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023022814,SKY,dummy or empty content
+2023022814,PTY,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023022814,PTY,dummy or empty content
+2023022814,PCP,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023022814,PCP,dummy or empty content
+2023022814,REH,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023022814,REH,dummy or empty content
+2023022817,TMP,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Max retries exceeded with url: /api/typ01/cgi-bin/url/nph-dfs_shrt_grd?tmfc=2023022817&vars=TMP&authKey=AOSEJFg_TSSkhCRYP_0k2g (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000029E43190550>, 'Connection to apihub.kma.go.kr timed out. (connect timeout=10)'))"
+2023022817,TMP,dummy or empty content
+2023022817,WSD,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023022817,WSD,dummy or empty content
+2023022817,SKY,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023022817,SKY,dummy or empty content
+2023022817,PTY,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023022817,PTY,dummy or empty content
+2023022817,POP,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023022817,POP,dummy or empty content
+2023022817,PCP,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023022817,PCP,dummy or empty content
+2023022817,REH,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023022817,REH,dummy or empty content
+2023022820,TMP,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023022820,TMP,dummy or empty content
+2023022820,PTY,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Max retries exceeded with url: /api/typ01/cgi-bin/url/nph-dfs_shrt_grd?tmfc=2023022820&vars=PTY&authKey=AOSEJFg_TSSkhCRYP_0k2g (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000029E43003ED0>, 'Connection to apihub.kma.go.kr timed out. (connect timeout=10)'))"
+2023022820,PTY,dummy or empty content
+2023022820,POP,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023022820,POP,dummy or empty content
+2023022820,PCP,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023022820,PCP,dummy or empty content
+2023022820,REH,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023022820,REH,dummy or empty content
+2023101005,WSD,상태코드 403
+2023101005,WSD,dummy or empty content
+2023101005,SKY,상태코드 403
+2023101005,SKY,dummy or empty content
+2023101005,PTY,상태코드 403
+2023101005,PTY,dummy or empty content
+2023101005,POP,상태코드 403
+2023101005,POP,dummy or empty content
+2023101005,PCP,상태코드 403
+2023101005,PCP,dummy or empty content
+2023101005,REH,상태코드 403
+2023101005,REH,dummy or empty content
+2023101008,TMP,상태코드 403
+2023101008,TMP,dummy or empty content
+2023101008,WSD,상태코드 403
+2023101008,WSD,dummy or empty content
+2023101008,SKY,상태코드 403
+2023101008,SKY,dummy or empty content
+2023101008,PTY,상태코드 403
+2023101008,PTY,dummy or empty content
+2023101008,POP,상태코드 403
+2023101008,POP,dummy or empty content
+2023101008,PCP,상태코드 403
+2023101008,PCP,dummy or empty content
+2023101008,REH,상태코드 403
+2023101008,REH,dummy or empty content
+2023101011,TMP,상태코드 403
+2023101011,TMP,dummy or empty content
+2023101011,WSD,상태코드 403
+2023101011,WSD,dummy or empty content
+2023101011,SKY,상태코드 403
+2023101011,SKY,dummy or empty content
+2023101011,PTY,상태코드 403
+2023101011,PTY,dummy or empty content
+2023101011,POP,상태코드 403
+2023101011,POP,dummy or empty content
+2023101011,PCP,상태코드 403
+2023101011,PCP,dummy or empty content
+2023101011,REH,상태코드 403
+2023101011,REH,dummy or empty content
+2023101014,TMP,상태코드 403
+2023101014,TMP,dummy or empty content
+2023101014,WSD,상태코드 403
+2023101014,WSD,dummy or empty content
+2023101014,SKY,상태코드 403
+2023101014,SKY,dummy or empty content
+2023101014,PTY,상태코드 403
+2023101014,PTY,dummy or empty content
+2023101014,POP,상태코드 403
+2023101014,POP,dummy or empty content
+2023101014,PCP,상태코드 403
+2023101014,PCP,dummy or empty content
+2023101014,REH,상태코드 403
+2023101014,REH,dummy or empty content
+2023101017,TMP,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Max retries exceeded with url: /api/typ01/cgi-bin/url/nph-dfs_shrt_grd?tmfc=2023101017&vars=TMP&authKey=AOSEJFg_TSSkhCRYP_0k2g (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000029E43001F90>, 'Connection to apihub.kma.go.kr timed out. (connect timeout=10)'))"
+2023101017,TMP,dummy or empty content
+2023101017,WSD,상태코드 403
+2023101017,WSD,dummy or empty content
+2023101017,SKY,상태코드 403
+2023101017,SKY,dummy or empty content
+2023101017,PTY,상태코드 403
+2023101017,PTY,dummy or empty content
+2023101017,POP,상태코드 403
+2023101017,POP,dummy or empty content
+2023101017,PCP,상태코드 403
+2023101017,PCP,dummy or empty content
+2023101017,REH,상태코드 403
+2023101017,REH,dummy or empty content
+2023101020,TMP,상태코드 403
+2023101020,TMP,dummy or empty content
+2023101020,WSD,상태코드 403
+2023101020,WSD,dummy or empty content
+2023101020,SKY,상태코드 403
+2023101020,SKY,dummy or empty content
+2023101020,PTY,상태코드 403
+2023101020,PTY,dummy or empty content
+2023101020,POP,상태코드 403
+2023101020,POP,dummy or empty content
+2023101020,PCP,상태코드 403
+2023101020,PCP,dummy or empty content
+2023101020,REH,상태코드 403
+2023101020,REH,dummy or empty content
+2023101023,TMP,상태코드 403
+2023101023,TMP,dummy or empty content
+2023101023,WSD,상태코드 403
+2023101023,WSD,dummy or empty content
+2023101023,SKY,상태코드 403
+2023101023,SKY,dummy or empty content
+2023101023,PTY,상태코드 403
+2023101023,PTY,dummy or empty content
+2023101023,POP,상태코드 403
+2023101023,POP,dummy or empty content
+2023101023,PCP,상태코드 403
+2023101023,PCP,dummy or empty content
+2023101023,REH,상태코드 403
+2023101023,REH,dummy or empty content
+2023101102,TMP,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Max retries exceeded with url: /api/typ01/cgi-bin/url/nph-dfs_shrt_grd?tmfc=2023101102&vars=TMP&authKey=AOSEJFg_TSSkhCRYP_0k2g (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x0000029E43003B10>, 'Connection to apihub.kma.go.kr timed out. (connect timeout=10)'))"
+2023101102,TMP,dummy or empty content
+2023101102,WSD,상태코드 403
+2023101102,WSD,dummy or empty content
+2023101102,SKY,상태코드 403
+2023101102,SKY,dummy or empty content
+2023101102,PTY,상태코드 403
+2023101102,PTY,dummy or empty content
+2023101102,POP,상태코드 403
+2023101102,POP,dummy or empty content
+2023101102,PCP,상태코드 403
+2023101102,PCP,dummy or empty content
+2023101102,REH,"HTTPSConnectionPool(host='apihub.kma.go.kr', port=443): Read timed out. (read timeout=10)"
+2023101102,REH,dummy or empty content
+2023101105,TMP,상태코드 403
+2023101105,TMP,dummy or empty content
+2023101105,WSD,상태코드 403
+2023101105,WSD,dummy or empty content
+2023101105,SKY,상태코드 403
+2023101105,SKY,dummy or empty content
+2023101105,PTY,상태코드 403
+2023101105,PTY,dummy or empty content
+2023101105,POP,상태코드 403
+2023101105,POP,dummy or empty content
+2023101105,PCP,상태코드 403
+2023101105,PCP,dummy or empty content
+2023101105,REH,상태코드 403
+2023101105,REH,dummy or empty content
+2023101108,TMP,상태코드 403
+2023101108,TMP,dummy or empty content
+2023101108,WSD,상태코드 403
+2023101108,WSD,dummy or empty content
+2023101108,SKY,상태코드 403
+2023101108,SKY,dummy or empty content
+2023101108,PTY,상태코드 403
+2023101108,PTY,dummy or empty content
+2023101108,POP,상태코드 403
+2023101108,POP,dummy or empty content
+2023101108,PCP,상태코드 403
+2023101108,PCP,dummy or empty content
